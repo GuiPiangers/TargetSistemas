@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
-    "exercise1": "ts-node 1-soma.ts"
+    "exercise1": "ts-node 1-soma.ts",
+    "exercise2": "ts-node 2-fibonacci.ts",
+    "exercise3": "ts-node 3-faturamentoDiario.ts",
+    "exercise4": "ts-node 4-faturamentoPercentual.ts",
+    "exercise5": "ts-node 5-inverterString.ts"
   },
   "keywords": [],
   "author": "",
